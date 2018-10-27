@@ -1,0 +1,76 @@
+{
+  "status": "0",
+  "data": [
+    {
+      "selectable": "1",
+      "rowSpan": 0,
+      "eventName": [
+        {
+          "name": "ファーストデイ",
+          "fileName": "/schedule/schedule_ico02-1.gif"
+        }
+      ],
+      "list": [],
+      "date": "20180901",
+      "dayOfWeek": 7
+    },
+    {
+      "selectable": "1",
+      "rowSpan": 0,
+      "eventName": [],
+      "list": [],
+      "date": "20180902",
+      "dayOfWeek": 1
+    },
+    {
+      "selectable": "1",
+      "rowSpan": 0,
+      "eventName": [],
+      "list": [],
+      "date": "20180903",
+      "dayOfWeek": 2
+    },
+    {
+      "selectable": "1",
+      "rowSpan": 0,
+      "eventName": [
+        {
+          "name": "シネマイレージデイ",
+          "fileName": "/schedule/schedule_ico02-5.gif"
+        }
+      ],
+      "list": [],
+      "date": "20180904",
+      "dayOfWeek": 3
+    },
+    {
+      "selectable": "1",
+      "rowSpan": 0,
+      "eventName": [
+        {
+          "name": "レディースデイ",
+          "fileName": "/schedule/schedule_ico02-2.gif"
+        }
+      ],
+      "list": [],
+      "date": "20180905",
+      "dayOfWeek": 4
+    },
+    {
+      "selectable": "1",
+      "rowSpan": 0,
+      "eventName": [],
+      "list": [],
+      "date": "20180906",
+      "dayOfWeek": 5
+    },
+    {
+      "selectable": "0",
+      "rowSpan": 0,
+      "eventName": [],
+      "list": [],
+      "date": "20180907",
+      "dayOfWeek": 6
+    }
+  ]
+}

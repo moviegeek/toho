@@ -1,0 +1,733 @@
+{
+  "data": [
+    {
+      "list": [
+        { "name": "北海道", "list": [], "code": "10" },
+        {
+          "name": "東北",
+          "list": [
+            {
+              "name": "青森県",
+              "list": [
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ おいらせ下田",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "049",
+                  "RName": "下田"
+                }
+              ],
+              "code": "02"
+            },
+            {
+              "name": "宮城県",
+              "list": [
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ 仙台",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "078",
+                  "RName": "仙台"
+                }
+              ],
+              "code": "04"
+            },
+            {
+              "name": "秋田県",
+              "list": [
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ 秋田",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "050",
+                  "RName": "秋田"
+                }
+              ],
+              "code": "05"
+            }
+          ],
+          "code": "20"
+        },
+        {
+          "name": "関東",
+          "list": [
+            {
+              "name": "茨城県",
+              "list": [
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ ひたちなか",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "024",
+                  "RName": "ひたちなか"
+                },
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ 水戸内原",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "025",
+                  "RName": "水戸内原"
+                }
+              ],
+              "code": "08"
+            },
+            {
+              "name": "栃木県",
+              "list": [
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ 宇都宮",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "015",
+                  "RName": "宇都宮"
+                }
+              ],
+              "code": "09"
+            },
+            {
+              "name": "埼玉県",
+              "list": [
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ ららぽーと富士見",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "075",
+                  "RName": "富士見"
+                }
+              ],
+              "code": "11"
+            },
+            {
+              "name": "千葉県",
+              "list": [
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ 市川コルトンプラザ",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "003",
+                  "RName": "市川"
+                },
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ ららぽーと船橋",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "018",
+                  "RName": "船橋"
+                },
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ 八千代緑が丘",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "028",
+                  "RName": "八千代緑が丘"
+                },
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ 流山おおたかの森",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "035",
+                  "RName": "流山"
+                },
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ 市原",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "071",
+                  "RName": "市原"
+                },
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ 柏",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "077",
+                  "RName": "柏"
+                }
+              ],
+              "code": "12"
+            },
+            {
+              "name": "東京都",
+              "list": [
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ 南大沢",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "006",
+                  "RName": "南大沢"
+                },
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ 六本木ヒルズ",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "009",
+                  "RName": "六本木"
+                },
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ 府中",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "012",
+                  "RName": "府中"
+                },
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ 錦糸町",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "029",
+                  "RName": "錦糸町"
+                },
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ 西新井",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "040",
+                  "RName": "西新井"
+                },
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ 渋谷",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "043",
+                  "RName": "渋谷"
+                },
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ 日本橋",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "073",
+                  "RName": "日本橋"
+                },
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ 新宿",
+                  "rakubi": "20180906",
+                  "list": [],
+                  "code": "076",
+                  "RName": "新宿"
+                },
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ 上野",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "080",
+                  "RName": "上野"
+                },
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ 日比谷 / TOHOシネマズ シャンテ",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "081",
+                  "RName": "日比谷 / シャンテ"
+                }
+              ],
+              "code": "13"
+            },
+            {
+              "name": "神奈川県",
+              "list": [
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ 海老名",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "007",
+                  "RName": "海老名"
+                },
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ 小田原",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "008",
+                  "RName": "小田原"
+                },
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ 川崎",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "010",
+                  "RName": "川崎"
+                },
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ ららぽーと横浜",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "036",
+                  "RName": "横浜"
+                },
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ 上大岡",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "066",
+                  "RName": "上大岡"
+                }
+              ],
+              "code": "14"
+            },
+            {
+              "name": "山梨県",
+              "list": [
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ 甲府",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "067",
+                  "RName": "甲府"
+                }
+              ],
+              "code": "19"
+            }
+          ],
+          "code": "30"
+        },
+        {
+          "name": "中部",
+          "list": [
+            {
+              "name": "富山県",
+              "list": [
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ ファボーレ富山",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "053",
+                  "RName": "富山"
+                },
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ 高岡",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "054",
+                  "RName": "高岡"
+                }
+              ],
+              "code": "16"
+            },
+            {
+              "name": "長野県",
+              "list": [
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ 上田",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "068",
+                  "RName": "上田"
+                }
+              ],
+              "code": "20"
+            },
+            {
+              "name": "岐阜県",
+              "list": [
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ 岐阜",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "020",
+                  "RName": "岐阜"
+                },
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ モレラ岐阜",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "030",
+                  "RName": "モレラ岐阜"
+                }
+              ],
+              "code": "21"
+            },
+            {
+              "name": "静岡県",
+              "list": [
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ 浜松",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "004",
+                  "RName": "浜松"
+                },
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ サンストリート浜北",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "039",
+                  "RName": "サンストリート浜北"
+                },
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ ららぽーと磐田",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "065",
+                  "RName": "磐田"
+                }
+              ],
+              "code": "22"
+            },
+            {
+              "name": "愛知県",
+              "list": [
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ 名古屋ベイシティ",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "002",
+                  "RName": "名古屋"
+                },
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ 木曽川",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "016",
+                  "RName": "木曽川"
+                },
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ 東浦",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "021",
+                  "RName": "東浦"
+                },
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ 津島",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "026",
+                  "RName": "津島"
+                },
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ 赤池",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "079",
+                  "RName": "赤池"
+                }
+              ],
+              "code": "23"
+            }
+          ],
+          "code": "40"
+        },
+        {
+          "name": "関西",
+          "list": [
+            {
+              "name": "京都府",
+              "list": [
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ 二条",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "023",
+                  "RName": "二条"
+                }
+              ],
+              "code": "26"
+            },
+            {
+              "name": "大阪府",
+              "list": [
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ 泉北",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "005",
+                  "RName": "泉北"
+                },
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ なんば 本館・別館",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "032",
+                  "RName": "なんば"
+                },
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ 梅田　本館・別館",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "037",
+                  "RName": "梅田"
+                },
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ 鳳",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "045",
+                  "RName": "鳳"
+                },
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ くずはモール",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "072",
+                  "RName": "くずはモール"
+                }
+              ],
+              "code": "27"
+            },
+            {
+              "name": "兵庫県",
+              "list": [
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ 伊丹",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "038",
+                  "RName": "伊丹"
+                },
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ 西宮ＯＳ",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "064",
+                  "RName": "西宮OS"
+                }
+              ],
+              "code": "28"
+            },
+            {
+              "name": "奈良県",
+              "list": [
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ 橿原",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "013",
+                  "RName": "橿原"
+                }
+              ],
+              "code": "29"
+            }
+          ],
+          "code": "50"
+        },
+        {
+          "name": "中国",
+          "list": [
+            {
+              "name": "岡山県",
+              "list": [
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ 岡南",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "031",
+                  "RName": "岡南"
+                }
+              ],
+              "code": "33"
+            },
+            {
+              "name": "広島県",
+              "list": [
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ 緑井",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "019",
+                  "RName": "緑井"
+                }
+              ],
+              "code": "34"
+            }
+          ],
+          "code": "60"
+        },
+        {
+          "name": "四国",
+          "list": [
+            {
+              "name": "愛媛県",
+              "list": [
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ 新居浜",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "048",
+                  "RName": "新居浜"
+                }
+              ],
+              "code": "38"
+            },
+            {
+              "name": "高知県",
+              "list": [
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ 高知",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "017",
+                  "RName": "高知"
+                }
+              ],
+              "code": "39"
+            }
+          ],
+          "code": "70"
+        },
+        {
+          "name": "九州",
+          "list": [
+            {
+              "name": "福岡県",
+              "list": [
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ 直方",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "022",
+                  "RName": "直方"
+                },
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ 福津",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "069",
+                  "RName": "福津"
+                }
+              ],
+              "code": "40"
+            },
+            {
+              "name": "長崎県",
+              "list": [
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ 長崎",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "046",
+                  "RName": "長崎"
+                }
+              ],
+              "code": "42"
+            },
+            {
+              "name": "熊本県",
+              "list": [
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ 光の森",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "014",
+                  "RName": "光の森"
+                },
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ はません",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "027",
+                  "RName": "はません"
+                },
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ 宇城",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "057",
+                  "RName": "宇城"
+                }
+              ],
+              "code": "43"
+            },
+            {
+              "name": "大分県",
+              "list": [
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ 大分わさだ",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "055",
+                  "RName": "大分わさだ"
+                },
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ アミュプラザおおいた",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "074",
+                  "RName": "アミュプラザおおいた"
+                }
+              ],
+              "code": "44"
+            },
+            {
+              "name": "鹿児島県",
+              "list": [
+                {
+                  "linkFlg": "1",
+                  "name": "TOHOシネマズ 与次郎",
+                  "rakubi": "",
+                  "list": [],
+                  "code": "033",
+                  "RName": "与次郎"
+                }
+              ],
+              "code": "46"
+            }
+          ],
+          "code": "80"
+        }
+      ],
+      "code": "016130"
+    }
+  ],
+  "status": "0"
+}

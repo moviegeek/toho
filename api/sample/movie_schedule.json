@@ -1,0 +1,247 @@
+{
+  "status": "0",
+  "data": [
+    {
+      "icon": "",
+      "hours": 0,
+      "list": [
+        {
+          "name": "ＴＯＨＯシネマズ六本木ヒルズ",
+          "list": [
+            {
+              "selectable": "0",
+              "rowSpan": 1,
+              "eventName": [],
+              "list": [
+                {
+                  "list": [
+                    {
+                      "bgColor": "",
+                      "eventIcon": "",
+                      "showingStart": "10:45",
+                      "unsoldSeatInfo": {
+                        "icon": "/schedule/schedule_ico01-1.gif\" alt=\"余裕あり　Plenty Left\" style=\"float:left;",
+                        "unsoldSeatStatus": "A"
+                      },
+                      "code": 2,
+                      "showingEnd": "12:55"
+                    },
+                    {
+                      "bgColor": "",
+                      "eventIcon": "",
+                      "showingStart": "13:25",
+                      "unsoldSeatInfo": {
+                        "icon": "/schedule/schedule_ico01-1.gif\" alt=\"余裕あり　Plenty Left\" style=\"float:left;",
+                        "unsoldSeatStatus": "A"
+                      },
+                      "code": 3,
+                      "showingEnd": "15:35"
+                    },
+                    {
+                      "bgColor": "",
+                      "eventIcon": "",
+                      "showingStart": "16:05",
+                      "unsoldSeatInfo": {
+                        "icon": "/schedule/schedule_ico01-1.gif\" alt=\"余裕あり　Plenty Left\" style=\"float:left;",
+                        "unsoldSeatStatus": "A"
+                      },
+                      "code": 5,
+                      "showingEnd": "18:15"
+                    },
+                    {
+                      "bgColor": "",
+                      "eventIcon": "",
+                      "showingStart": "18:45",
+                      "unsoldSeatInfo": {
+                        "icon": "/schedule/schedule_ico01-1.gif\" alt=\"余裕あり　Plenty Left\" style=\"float:left;",
+                        "unsoldSeatStatus": "A"
+                      },
+                      "code": 6,
+                      "showingEnd": "20:55"
+                    },
+                    {
+                      "bgColor": "#E4E3DF",
+                      "eventIcon": "",
+                      "showingStart": "21:25",
+                      "unsoldSeatInfo": {
+                        "icon": "/schedule/schedule_ico01-1.gif\" alt=\"余裕あり　Plenty Left\" style=\"float:left;",
+                        "unsoldSeatStatus": "A"
+                      },
+                      "code": 7,
+                      "showingEnd": "23:35"
+                    },
+                    {
+                      "bgColor": "",
+                      "eventIcon": "",
+                      "showingStart": "",
+                      "unsoldSeatInfo": null,
+                      "code": 0,
+                      "showingEnd": ""
+                    },
+                    {
+                      "bgColor": "",
+                      "eventIcon": "",
+                      "showingStart": "",
+                      "unsoldSeatInfo": null,
+                      "code": 0,
+                      "showingEnd": ""
+                    }
+                  ],
+                  "code": "29",
+                  "msg": "",
+                  "icon3Suti": "1",
+                  "theaterCd": "0091",
+                  "iconImg1": "",
+                  "icon3Key2": "12",
+                  "name": "スクリーン９",
+                  "rowSpan": 1,
+                  "allSeatNum": 0,
+                  "ename": "SCREEN9",
+                  "iconImg3": "digital.gif",
+                  "iconImg2": "",
+                  "iconNm3": "デジタル",
+                  "iconNm2": "",
+                  "iconNm1": "",
+                  "facilities": []
+                }
+              ],
+              "date": "20180902",
+              "dayOfWeek": 0
+            }
+          ],
+          "code": "009",
+          "msg": ""
+        }
+      ],
+      "rakubi": "",
+      "code": "016130",
+      "ratingCd": "",
+      "newShow": "",
+      "thumbnail": "",
+      "name": "アントマン＆ワスプ（字幕版）",
+      "ename": "ANT-MAN AND THE WASP / ENGLISH",
+      "rowSpan": 0,
+      "ratingImgPath": "",
+      "mcode": "016130",
+      "nearbyShow": ""
+    },
+    {
+      "icon": "",
+      "hours": 0,
+      "list": [
+        {
+          "name": "ＴＯＨＯシネマズ六本木ヒルズ",
+          "list": [
+            {
+              "selectable": "0",
+              "rowSpan": 1,
+              "eventName": [],
+              "list": [
+                {
+                  "list": [
+                    {
+                      "bgColor": "#FFE4C4",
+                      "eventIcon": "/schedule/schedule_ico02-8.gif",
+                      "showingStart": "15:35",
+                      "unsoldSeatInfo": {
+                        "icon": "/schedule/schedule_ico01-2.gif\" alt=\"残り半分　Half Full\" style=\"float:left;",
+                        "unsoldSeatStatus": "B"
+                      },
+                      "code": 4,
+                      "showingEnd": "17:45"
+                    },
+                    {
+                      "bgColor": "#FFE4C4",
+                      "eventIcon": "/schedule/schedule_ico02-8.gif",
+                      "showingStart": "18:10",
+                      "unsoldSeatInfo": {
+                        "icon": "/schedule/schedule_ico01-1.gif\" alt=\"余裕あり　Plenty Left\" style=\"float:left;",
+                        "unsoldSeatStatus": "A"
+                      },
+                      "code": 6,
+                      "showingEnd": "20:20"
+                    },
+                    {
+                      "bgColor": "#FFE4C4",
+                      "eventIcon": "/schedule/schedule_ico02-8.gif",
+                      "showingStart": "20:45",
+                      "unsoldSeatInfo": {
+                        "icon": "/schedule/schedule_ico01-1.gif\" alt=\"余裕あり　Plenty Left\" style=\"float:left;",
+                        "unsoldSeatStatus": "A"
+                      },
+                      "code": 7,
+                      "showingEnd": "22:55"
+                    },
+                    {
+                      "bgColor": "",
+                      "eventIcon": "",
+                      "showingStart": "",
+                      "unsoldSeatInfo": null,
+                      "code": 0,
+                      "showingEnd": ""
+                    },
+                    {
+                      "bgColor": "",
+                      "eventIcon": "",
+                      "showingStart": "",
+                      "unsoldSeatInfo": null,
+                      "code": 0,
+                      "showingEnd": ""
+                    },
+                    {
+                      "bgColor": "",
+                      "eventIcon": "",
+                      "showingStart": "",
+                      "unsoldSeatInfo": null,
+                      "code": 0,
+                      "showingEnd": ""
+                    },
+                    {
+                      "bgColor": "",
+                      "eventIcon": "",
+                      "showingStart": "",
+                      "unsoldSeatInfo": null,
+                      "code": 0,
+                      "showingEnd": ""
+                    }
+                  ],
+                  "code": "28",
+                  "msg": "",
+                  "icon3Suti": "1",
+                  "theaterCd": "0091",
+                  "iconImg1": "",
+                  "icon3Key2": "11",
+                  "name": "スクリーン８",
+                  "rowSpan": 1,
+                  "allSeatNum": 0,
+                  "ename": "SCREEN8",
+                  "iconImg3": "3d.gif",
+                  "iconImg2": "mx4d.gif",
+                  "iconNm3": "3D",
+                  "iconNm2": "MX4D",
+                  "iconNm1": "",
+                  "facilities": []
+                }
+              ],
+              "date": "20180902",
+              "dayOfWeek": 0
+            }
+          ],
+          "code": "009",
+          "msg": ""
+        }
+      ],
+      "rakubi": "",
+      "code": "016352",
+      "ratingCd": "",
+      "newShow": "",
+      "thumbnail": "",
+      "name": "アントマン＆ワスプ（ＭＸ４Ｄ・３Ｄ・字幕版）",
+      "ename": "ANT-MAN AND THE WASP / ENGLISH MX4D 3D",
+      "rowSpan": 0,
+      "ratingImgPath": "",
+      "mcode": "016130",
+      "nearbyShow": ""
+    }
+  ]
+}
