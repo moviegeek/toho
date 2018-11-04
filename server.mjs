@@ -41,6 +41,21 @@ app.get('/movie/:id/schedule', async (req, res, next) => {
 
 const port = process.env.PORT || '3000'
 
-app.listen(port, () => {
+const server = app.listen(port, () => {
     console.log('server stated listening on: ' + port)
 })
+
+process.on('SIGINT', shutdown)
+process.on('SIGTERM', shutdown)
+
+function shutdown() {
+    console.log('shutting down server')
+    server.close(() => {
+        process.exit(1)
+    })
+
+    setTimeout(() => {
+        console.log('shutting down timeout, force exit process')
+        process.exit(1)
+    }, 30000)
+}
